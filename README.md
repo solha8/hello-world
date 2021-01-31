@@ -1,2 +1,2 @@
 # hello-world
-What am i doing?
+I'm a young guy aspiring to be a great coder :)
